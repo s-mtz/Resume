@@ -1,0 +1,138 @@
+{
+    "slug": "product-manager",
+    "name": "Morteza Hakim",
+    "title": "Product Manager",
+    "contact": [
+        {
+            "name": "email",
+            "title": "s.mtz.hakim@gmail.com",
+            "link": "mailto:s.mtz.hakim@gmail.com"
+        },
+        {
+            "name": "phone",
+            "title": "+989392632560",
+            "link": "tel:+989392632560"
+        }
+    ],
+    "social": [
+        {
+            "name": "linkedin",
+            "link": "https://www.linkedin.com/in/morteza-hakim/",
+            "title": "Morteza_Hakim"
+        }
+    ],
+    "skills": [
+        "Communication",
+        "Problem Solving",
+        "Product Strategy",
+        "Team Leadership",
+        "Product Discovery",
+        "Agile Methodologies",
+        "User Experience (UX)",
+        "Product Road Mapping",
+        "Agile Product Management"
+    ],
+    "projects": [
+        {
+            "title": "Castel Game",
+            "url": "https://castelgame.com",
+            "thumbnail": "castel",
+            "stack": ["Blockchain", "Game Design", "Team Managment"],
+            "description": "MMORTS game"
+        },
+        {
+            "title": "2Charge",
+            "url": "https://t.me/tocharge_bot",
+            "thumbnail": "2charge",
+            "stack": ["Marketing", "Business Development"],
+            "description": "Mobile top up reseller."
+        },
+        {
+            "title": "Mangadl",
+            "url": "https://t.me/mangadl_tbot",
+            "thumbnail": "mangadl",
+            "stack": ["Product Discovery", "Comunity Building", "Marketing"],
+            "description": "Platform for manga scanlaction."
+        }, 
+        {
+            "title": "Darsino",
+            "url": "https://darsino.org/",
+            "thumbnail": "darsino",
+            "stack": ["Monetization", "UX"],
+            "description": "E-learning platform."
+        }
+    ],
+    "languages": ["Persian (Native)", "English (Fluent)", "Arabic (Fluent)"],
+    "educations": ["Bachelor's degree in Computer Engineering"],
+    "about": "As a product manager, I'm driven to create exceptional experiences that surpass mere metrics. I believe in the power of hard work, passion, and attention to detail. Solving complex challenges and communicating effectively are my passions. By fostering collaboration and innovation, I inspire my team to deliver products that make a meaningful impact on people's lives.",
+    "experiences": [
+        {
+            "title": "<strong>Product Manager</strong> at <strong>iGap Messaenger</strong> (Sep 2022 - Present) - on site",
+            "role": "Product Manager",
+            "company": "iGap Messanger",
+            "time": "Sep 2022 - Present",
+            "type": "Full-time",
+            "url": "https://www.linkedin.com/company/igap-im/",
+            "description": "Telegram like instant messaging application with over 20M users.",
+            "responsibilities": [
+                "Developed and shaped product strategy.",
+                "Provided full-service design for new features.",
+                "Defined and measured performance, marketing, and other KPIs.",
+                "Established a product design team and advanced UI/UX for the new version.",
+                "Conducted market analysis and competitive benchmarking to gain market position.",
+                "Implemented agile methodologies within the company, achieving 50% efficiency boost.",
+                "Evaluated available services based on data and presented recommendations for removal or improvement."
+            ]
+        },
+        {
+            "title": "<strong>Entrepreneur</strong> at <strong>Self employed</strong> (Oct 2021 - Present)",
+            "role": "Entrepreneur",
+            "company": "Self employed",
+            "time": "Dec 2019 - Present",
+            "type": "Part-time",
+            "url": "",
+            "description": "",
+            "responsibilities": [
+                "Implemented effective revenue models, resulting in idea monetization.",
+                "Validated ideas through extensive market research and customer interviews.",
+                "Led cross-functional teams to ensure successful project development and launch.",
+                "Built vibrant product communities, fostering brand loyalty and customer engagement.",
+                "Prioritized user experience, leading to heightened customer satisfaction and retention.",
+                "Implemented blockchain payment systems for secure transactions in the game.",
+                "Designed an innovative MMORTS game with engaging mechanics.",
+                "Collaborated with TON Play as a publisher."
+            ]
+        },
+        {
+            "title": "<strong>Product Manager</strong> at <strong>Signal Group</strong> (Nov 2021 - Aug 2022) - on site",
+            "role": "Product Manager",
+            "company": "Signal Group",
+            "time": "Nov 2021 - Aug 2022",
+            "type": "Full-time",
+            "url": "https://www.linkedin.com/company/signalads/",
+            "description": "Dynamic SMS platform facilitating mass advertising and OTP services.",
+            "responsibilities": [
+                "Implemented agile product delivery using Scrum methodology.",
+                "Led a team of four developers in developing Serita CRM and Signal SMS Panel.",
+                "Defined product vision, generated roadmaps, and prioritized features for growth.",
+                "Conducted user testing and interviews, improving product usability and user experience.",
+                "Managed stakeholders effectively and held regular review meetings with them to ensure alignment and strategize as needed.",
+                "Collaborated with SEO, media, and design teams to optimize the product, achieving an impressive 60% conversion rate improvement."
+            ]
+        },
+        {
+            "title": "<strong>Product Manager</strong> at <strong>Mantiq</strong> (Mar 2021 - Nov 2021) - Remote",
+            "role": "Product Manager",
+            "company": "Mantiq",
+            "time": "Feb 2021 - Nov 2021",
+            "type": "Remote",
+            "url": "https://www.linkedin.com/company/mantiq/",
+            "description": "international agency delivering diverse solutions and services to clients worldwide.",
+            "responsibilities": [
+                "Collaborated with designer to enhance UX and user journey.",
+                "Ensured effective communication with team and stakeholders for project success.",
+                "Utilized agile methodologies to manage a team in building Emall.market, a grocery delivery platform."
+            ]
+        }
+    ]
+}
